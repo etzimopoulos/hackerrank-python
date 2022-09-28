@@ -11,3 +11,7 @@ Solution Steps
 - Remove duplicates in a list
 - Sort the list
 - Get the 2nd largest i.e. [-2]
+
+
+### Next Challenge ###
+
